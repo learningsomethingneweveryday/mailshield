@@ -1,0 +1,11 @@
+text,label
+"URGENT: Your Bank of America account has been temporarily locked due to suspicious activity. Click here to verify your identity immediately: http://192.168.1.105/login/verify-account",phishing
+"Hi team, please find attached the agenda for our weekly engineering sync on Thursday at 2 PM. Let me know if you have additional topics.",safe
+"Security Alert! Unusual sign-in attempt detected from Russia. Verify your password now to prevent permanent account suspension: http://bit.ly/secure-auth-login",phishing
+"Your Amazon order #402-9918231 has shipped and is estimated to arrive on Tuesday. Track your package on your official Amazon account dashboard.",safe
+"CONGRATULATIONS! You have been selected as the lucky winner of our $1,000,000 cash prize! Claim your award by clicking here: http://claim-prize-online.info/winner",phishing
+"Hey Alex, can you review the pull request for the authentication module when you have a moment? Thanks!",safe
+"Important: PayPal security notification. We noticed unauthorized login attempts. Confirm your billing details now: http://paypal-security-update.com/account/confirm",phishing
+"Reminder: Your dental appointment with Dr. Stevens is scheduled for tomorrow at 10:30 AM. Reply CONFIRM to verify or CALL to reschedule.",safe
+"FINAL WARNING: Your Netflix subscription has expired due to billing failure. Update payment method immediately to avoid termination: http://netflix-billing-reactivate.xyz/login",phishing
+"Attached is the monthly financial report for Q3. Please review the revenue breakdown before tomorrow's executive board meeting.",safe
